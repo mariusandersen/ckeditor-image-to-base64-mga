@@ -1,8 +1,8 @@
 {
-  "name": "ckeditor-image-to-base",
-  "version": "0.0.3",
+  "name": "ckeditor-image-to-base-mga",
+  "version": "0.0.4",
   "license": "MIT",
-  "author": "YetiForceCompany <info@yetiforce.com> (https://yetiforce.com)",
+  "author": "YetiForceCompany <info@yetiforce.com> (https://yetiforce.com) + Marius Grande Andersen",
   "keywords": [
     "js",
     "CKEditor",
@@ -13,13 +13,13 @@
     "ckeditor4",
     "images"
   ],
-  "description": "ckeditor-image-to-base64 plugin for CKEditor 4 - Adds images from local as base64 string into the source without server side processing.",
+  "description": "ckeditor-image-to-base64 plugin for CKEditor 4 - Adds images from local as base64 string into the source without server side processing. Also works when pasting an image copied from Word",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YetiForceCompany/ckeditor-image-to-base64"
+    "url": "git+https://github.com/mariusandersen/ckeditor-image-to-base64-mga"
   },
   "bugs": {
-    "url": "https://github.com/YetiForceCompany/ckeditor-image-to-base64/issues"
+    "url": "https://github.com/mariusandersen/ckeditor-image-to-base64-mga/issues"
   },
-  "homepage": "https://github.com/YetiForceCompany/ckeditor-image-to-base64#readme"
+  "homepage": "https://github.com/mariusandersen/ckeditor-image-to-base64-mga#readme"
 }
