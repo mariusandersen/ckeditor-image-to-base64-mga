@@ -2,6 +2,9 @@
 
 Created by YetiForce Sp. z o.o. https://yetiforce.com and Marius Grande Andersen
 
+Differences between this fork and main one:
+* Fixed issue copying image directly from Word to ckeditor plugin.
+
 ## Requirements
 
 The Browser must support the JavaScript File API.
